@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yasindu-dilshan
+- 👋 Hi, I’m Yasindu Dilshan
 - 👀 I’m interested in Software development , designing and Computer technologies
 - 📫 This is my linked in profile -> www.linkedin.com/in/yasindu-dilshan
 
