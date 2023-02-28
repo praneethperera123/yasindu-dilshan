@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="mailto:yasindu.18@cse.mrt.ac.lk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="yasindu.18" height="25" width="35" /></a>
-<a href="https://linkedin.com/in/yasindu-dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulaj-kavinda-dasanayake" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yasindu-dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasindu-dilshan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19017210/yazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9532595" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/yasindu98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="uom180108m" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yasindudilshan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dulaj_18" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/yasindu98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yasindudilshan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
 </p>
 
